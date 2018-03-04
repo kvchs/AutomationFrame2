@@ -17,3 +17,6 @@ Firefox 56 supports headless mode on Windows<br/>
 }
 # 4.获取目标元素的文本方法
 要获取到目标元素的text的值，需要定义一个目标元素element，然后通过element.text方法得到字符串，注意不是element.text(),这个方法是没有带小括号的。方法一是，直接把字段写入XPath表达式，如果通过该XPath能定位到元素，说明这个错误字段已经在页面显示；方法二是通过该目标元素节点，然后通过element.text得到值，在拿得到的text值取和期待的结果去字符串匹配。在自动化测试脚本开发中，采用第二个方法。
+# 5.截图并保存
+get_screenshot_as_file()<br/>
+selenium webdriver提供的API不支持截取系统弹窗.如果要系统弹窗，用robot相关方法
