@@ -20,3 +20,17 @@ Firefox 56 supports headless mode on Windows<br/>
 # 5.截图并保存
 get_screenshot_as_file()<br/>
 selenium webdriver提供的API不支持截取系统弹窗.如果要系统弹窗，用robot相关方法
+# 6.框架组成部分
+1）需要配置文件管理<br/>
+
+2）业务逻辑代码和测试脚本分离<br/>
+
+3）报告和日志文件输出<br/>
+
+4）自定义的库的封装<br/>
+
+5）管理、执行脚本方式<br/>
+
+6）第三方插件引入<br/>
+
+7）持续集成<br/>
