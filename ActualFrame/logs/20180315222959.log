@@ -1,0 +1,16 @@
+2018-03-15 22:29:59,650 - BrowserConfiguration - INFO - you selected Chrome browser.
+2018-03-15 22:29:59,651 - BrowserConfiguration - INFO - The test URL is: https://www.baidu.com
+2018-03-15 22:30:04,640 - BrowserConfiguration - INFO - Starting Chrome browser
+2018-03-15 22:30:05,769 - BrowserConfiguration - INFO - Maximize the current window
+2018-03-15 22:30:06,816 - BrowserConfiguration - INFO - Open url: https://www.baidu.com
+2018-03-15 22:30:06,819 - BrowserConfiguration - INFO - implicitly 5 seconds
+2018-03-15 22:30:06,848 - BasePage - INFO - find element xpath=>//*[@id='u1']/a[1] successful
+2018-03-15 22:30:08,795 - BasePage - INFO - the element is clicked
+2018-03-15 22:30:11,797 - BasePage - INFO - sleep for 3 seconds
+2018-03-15 22:30:11,835 - BasePage - INFO - find element xpath=>//*[@id='channel-all']/div/ul/li[8]/a successful
+2018-03-15 22:30:13,095 - BasePage - INFO - the element is clicked
+2018-03-15 22:30:16,095 - BasePage - INFO - sleep for 3 seconds
+2018-03-15 22:30:16,123 - BasePage - INFO - find element xpath=>//*[@id='channel-all']/div/ul/li[13]/a successful
+2018-03-15 22:30:17,903 - BasePage - INFO - the element is clicked
+2018-03-15 22:30:20,903 - BasePage - INFO - sleep for 3 seconds
+2018-03-15 22:30:21,525 - BasePage - INFO - take a photo and save to folder
