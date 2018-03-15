@@ -23,5 +23,6 @@ class BaiduSearchFrame(unittest.TestCase):
             print("verify failed", format(e))
 
 
+
 if __name__ == '__main__':
     unittest.main()
