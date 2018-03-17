@@ -1,0 +1,7 @@
+2018-03-17 09:38:50,033 - BrowserConfiguration - INFO - you selected Chrome browser.
+2018-03-17 09:38:50,033 - BrowserConfiguration - INFO - The test URL is: https://www.baidu.com
+2018-03-17 09:38:54,907 - BrowserConfiguration - INFO - Starting Chrome browser
+2018-03-17 09:38:56,034 - BrowserConfiguration - INFO - Maximize the current window
+2018-03-17 09:38:57,069 - BrowserConfiguration - INFO - Open url: https://www.baidu.com
+2018-03-17 09:38:57,072 - BrowserConfiguration - INFO - implicitly 5 seconds
+2018-03-17 09:38:57,096 - BasePage - INFO - Current page title is 百度一下，你就知道
